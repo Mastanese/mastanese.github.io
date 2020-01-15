@@ -2,7 +2,7 @@
   "basics": {
     "name": "Keenan Lee",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://knolee.github.io/images/download.png",
     "email": "kl26@hawaii.edu",
     "phone": "808-422-2222",
     "website": "https://knolee.github.io",
@@ -32,16 +32,11 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "IoT"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
