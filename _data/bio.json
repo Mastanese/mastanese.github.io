@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://knolee.github.io/images/keenan.png",
     "email": "kl26@hawaii.edu",
-    "phone": "808-422-2222",
+    "phone": "",
     "website": "https://knolee.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. My expected graduation is Fall, 2020. I am not sure of what I want to do after I graduate.",
     "location": {
@@ -22,17 +22,20 @@
       },
       {
         "network": "linkedin",
-        "username": "kl26",
+        "username": "keenan-lee",
         "url": "https://www.linkedin.com/in/keenan-lee-526030197"
       }
     ]
   },
   "interests": [
-    {
-      "name": "internet of things",
+        {
+      "name": "Hardware Development",
       "keywords": [
-        "Arduino",
-        "IoT"
+      ]
+    },
+    {
+      "name": "Signal Processing",
+      "keywords": [
       ]
     },
     {
