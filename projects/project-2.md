@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/HSFL.png
 title: Ke Ao CubeSAT
 permalink: projects/cubesat
 # All dates must be YYYY-MM-DD format!
