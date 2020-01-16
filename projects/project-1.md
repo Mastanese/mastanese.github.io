@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Arduino Motorcycle HUD
+image: images/motorcycle.jpg
+title: Motorcycle Visibility HUD
 permalink: projects/arduino-hud
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
