@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/drowning.jpg
+image: images/Drowning.jpg
 title: How to Drown
 permalink: projects/drowning
 # All dates must be YYYY-MM-DD format!
