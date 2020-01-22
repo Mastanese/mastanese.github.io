@@ -8,15 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<style>
-img {
-  ;
-  ;
-  ;
-  ;
-  ;
-}
-</style>
+
 <img src="images/thinkingMan.jpg" alt="The Thinker Sculpture" margin-left:"auto" margin-right:"auto" display:"block" max-width:"100%" height:"auto">
 
 Growing up, I had always wanted to become an engineer. I did not know what kind, or even what an engineer did--I just enjoyed math and physics and knew that engineers made lots of money. Enrolling at the University of Hawai'i at Manoa, I decided to major in Electrical Engineering. 
