@@ -5,7 +5,7 @@ image: images/Drowning.jpg
 title: How to Drown
 permalink: projects/drowning
 # All dates must be YYYY-MM-DD format!
-date: 2017-05-1
+date: 2017-05-01
 labels:
   - CPR
   - Water Safety
