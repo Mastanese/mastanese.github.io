@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: Learning
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2020-01-22
 labels:
   - JavaScript
   - Learning
