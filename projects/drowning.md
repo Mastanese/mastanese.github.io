@@ -13,7 +13,7 @@ summary: A High-school Senior Research Project
 ---
 
 ## Background
-As a graduation requiremWhent, my highschool requires a senior project. This project begins during Junior year and consists of four elements:
+As a graduation requirement, my highschool requires a senior project. This project begins during Junior year and consists of four elements:
 
 1. 10 Research Logs regarding the topic of choice
 2. A 10-page, double-spaced Research Paper
