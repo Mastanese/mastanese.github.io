@@ -12,6 +12,7 @@ labels:
   - Gumstix
   - UML
   - Debian
+  - HSFL
 summary: CubeSAT for weather prediction developed with the Hawai'i Space Flight Laboratory
 ---
 ## Background
