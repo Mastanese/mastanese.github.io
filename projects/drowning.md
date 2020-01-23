@@ -27,7 +27,7 @@ As my applied learning, I enrolled into a lifeguard course and got my lifeguard 
 
 When working as a swim instructor, we had to call an ambulance for a student. This was because the mother was worried about a phenomenon known as delayed drowning.
 
-## What is Delayed Drowning
+## Delayed Drowning
 After water is inhaled, swelling/inflammation can happen in the lungs. This can make it difficult for the body to absorb oxygen. When this happens, it is possible for a person to asphyxiate and die. Symptons include feeling lethargic, difficulty breathing, and coughing/vomitting; generally, death doesn't occur until many hours after water inhalation. 
 
 One way to alleviate symptoms is to increase the flow of oxygen entering the body. This can be done with, for example, an oxygen tank. Cases of delayed drowning are rare and usually only happen after cases of near-drowning (lots of water entering airpipe). In most cases, a death could have been avoided by going to the hospital after experiencing the above symptoms.
