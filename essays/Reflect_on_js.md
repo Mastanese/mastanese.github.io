@@ -10,12 +10,12 @@ labels:
   - Reflection
 ---
 ## Syntax
-My first experience with JavaScript was through a free online course through CodeCademy. I was able to blaze through the majority of the lessons due to JavaScript having functionality and syntax similar to C++. I believe that learning new programming languages makes it easier to learn other programming languages. Along with syntax, you learn new concepts and build on existing ones. Concepts of looping, if/else logic, encapsulation, scope, object-oriented program, etc are developed when learning one language and can then be reapplied to the next. Repitition of one language can make the learning of a syntactically-similar language easier.
+I believe that learning new programming languages makes it easier to learn other programming languages. Foundations built when learning one language can be leaned on when learning another--Concepts of looping, if/else logic, encapsulation, scope, object-oriented program, etc are found in many programming languages. Similarly, syntax is often reused across languages. My first experience with JavaScript was through a free online course through CodeCademy. I was able to power through the majority of the lessons due to JavaScript having functionality and syntax similar to C++.  
 
 ## Asynchronous Functions
-My first experience with asynchronous procedures was with SystemVerilog. SystemVerilog is a language used in hardware design and simulation. In SystemVerilog, values can be assigned with either a blocking (=) or a non-blocking (<=) operator. In a non-blocking assignment, variables are assigned asynchronously. In a blocking assignment, variables are assigned sequentially.
+My first experience with asynchronous procedures was with SystemVerilog. SystemVerilog is a language used in hardware design and simulation. In SystemVerilog, values can be assigned with either a blocking (=) or a non-blocking (<=) operator. In a non-blocking assignment, variables are assigned asynchronously. In a blocking assignment, variables are assigned sequentially. 
 
-Similarly, JavaScript has promise-based, asynchronous functions. 
+While running sequential logic, SystemVerilog allows for the implementation of asyncrhonous components using combinational logic blocks. These blocks can change instantly while sequential outputs change only at clock changes. Similarly, JavaScript implements asynchronous, promise-based functions. I think JavaScript is an interesting language and I hope to be able to use it more often.
 
 ## Learning Through Doing
 I find that I learn best by working through problems. The more problems I do, the more comfortable I feel with the material and the more intuitive it seems; however, there does seem to be a problem with just solving problems and that is, learning terms and concepts. While it is true that doing problems can make some concepts easier to understand, other concepts can be completely neglected. 
