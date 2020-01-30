@@ -40,7 +40,7 @@ the user received a nice, informative response to their question. The response i
 
 <Insert here>
 
-##Bad Questions
+## Bad Questions
 As there are smart questions, there are also poor questions. These questions contain little information and show little effort on the 
 question-asker's side. Pulling again from the Math StackExchange, we see this question:
 
