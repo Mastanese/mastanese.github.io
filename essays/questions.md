@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: The Internet of Questions
+# All dates must be YYYY-MM-DD format!
+date: 2020-01-30
+labels:
+  - Forums
+  - Question Asking
+---
+
+<img class="ui medium centered image" src="../images/thinkingMan.jpg">
 
 
 
