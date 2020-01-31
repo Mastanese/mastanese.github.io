@@ -39,7 +39,7 @@ the user received a nice, informative response to their question. The response i
 As there are smart questions, there are also poor questions. These questions contain little information and show little effort on the 
 question-asker's side. Pulling again from the Math StackExchange, we see this question:
 
-<img class="ui medium centered image" src="../images/badAnswer.png">
+<img class="ui medium centered image" src="../images/badQuestion.png">
 
 While the question does have some good points (the question is specific andcontains background information), it is not apparent if the
 user has put any effort into solving the question before posting on the forum. Like the previous example, this question is obviously
