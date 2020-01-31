@@ -8,7 +8,7 @@ labels:
   - Forums
   - Question Asking
 ---
-## The Internet
+## The Internet of Things
 
 There are a vast array of resources and forums available online for an unimaginable number of topics. With the web being world-wide
 and easily accessible, there are also many people, with different personalities and knowledge, browsing the internet and participating 
@@ -23,7 +23,7 @@ As explained by Eric Raymond in the essay [found here](http://www.catb.org/esr/f
 contain relevant background information, and aren't too broad. These questions show that the question-asker has put effort into their
 question and is willing to learn. 
 
-One example of a good question can be found on the Math forums on StackExchange. Here is a screenshot of the question:
+One example of a good question can be found on the [Math forums on StackExchange](https://math.stackexchange.com/questions/3316082/probability-of-geting-acceptance-letter). Here is a screenshot of the question:
 
 <img class="ui large centered image" src="../images/goodQuestion.png">
 
@@ -37,7 +37,7 @@ the user received a nice, informative response to their question. The response i
 
 ## Bad Questions
 As there are smart questions, there are also poor questions. These questions contain little information and show little effort on the 
-question-asker's side. Pulling again from the Math StackExchange, we see this question:
+question-asker's side. Pulling again from the Math StackExchange, we see this [question](https://math.stackexchange.com/questions/1422175/how-do-i-calculate-the-probability-of-the-relay-in-the-circuits):
 
 <img class="ui large centered image" src="../images/badQuestion.png">
 
