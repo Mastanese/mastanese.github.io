@@ -8,11 +8,6 @@ labels:
   - Forums
   - Question Asking
 ---
-
-<img class="ui medium centered image" src="../images/thinkingMan.jpg">
-
-
-
 ## The Internet
 
 There are a vast array of resources and forums available online for an unimaginable number of topics. With the web being world-wide
@@ -30,7 +25,7 @@ question and is willing to learn.
 
 One example of a good question can be found on the Math forums on StackExchange. Here is a screenshot of the question:
 
-<Insert here>
+<img class="ui medium centered image" src="../images/goodQuestion.jpg">
 
 We see that the user provides an explanation of the problem, their current progress, and a specific, nicely worded question.
 The question also contains formatted equations and is split into readable paragraphs. 
@@ -38,13 +33,13 @@ The question also contains formatted equations and is split into readable paragr
 Good questions usually produce good result. This question was posted at 10:20 on August 7, 2019. fourteen minutes later, at 10:34 on August 7, 2019,
 the user received a nice, informative response to their question. The response is shown below:
 
-<Insert here>
+<img class="ui medium centered image" src="../images/goodAnswer.jpg">
 
 ## Bad Questions
 As there are smart questions, there are also poor questions. These questions contain little information and show little effort on the 
 question-asker's side. Pulling again from the Math StackExchange, we see this question:
 
-<Insert here>
+<img class="ui medium centered image" src="../images/badAnswer.jpg">
 
 While the question does have some good points (the question is specific andcontains background information), it is not apparent if the
 user has put any effort into solving the question before posting on the forum. Like the previous example, this question is obviously
