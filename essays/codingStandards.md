@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: Coding Professionally
+# All dates must be YYYY-MM-DD format!
+date: 2020-02-12
+labels:
+  - Software Engineering
+  - Coding Standards
+---
+
 ## Coding Professionally
 ### What are Coding Standards?
 Coding standards are "best practices," implemented throughout a company 
