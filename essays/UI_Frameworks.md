@@ -15,7 +15,9 @@ UI frameworks provide tools to make it easier to design applications. One exampl
 the creation of responsive, modern-looking websites with minimal amounts of human-readable code. Other UI framworks include bootstrap,
 React, Pure, and Ulkit. Overall, UI frameworks provide developers with powerful tools to use in everyday design.
 
-<img class="ui centered image" src="https://react.semantic-ui.com/logo.png" alt="Semantic Logo">
+One useful function of Semantic UI are containers and grids. Containers encapsulate other elements and can automatically set margins among other things. Within the container, a grid can help specify the placement of specific elements. For example, a grid can be used to center a button or add text columns to a page. Semantic UI can transform old-style html pages to modern websites without any major changes in the complexity of the code. 
+
+<img class="ui medium centered image" src="https://react.semantic-ui.com/logo.png" alt="Semantic Logo">
   
 ## Learning Semantic UI
 
