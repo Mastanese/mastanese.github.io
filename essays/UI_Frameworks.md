@@ -21,9 +21,4 @@ Semantic UI is a framework used with HTML and CSS for developing web application
 Semantic classes can be used to align elements, modernize the look of an application, perform dynamic reformatting, and improve the
 functionality of form items:
 
-<button class="ui buttons">
-<button>HTML<\button>
-<button class="ui button">Semantic</button>
-</buttons>
-
 Personally, i struggle a little with using HTML, CSS, and Semantic UI. 
