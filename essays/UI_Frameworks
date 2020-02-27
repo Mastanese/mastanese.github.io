@@ -9,3 +9,21 @@ labels:
   - Learning
 ---
 
+## UI Frameworks
+
+UI frameworks provide tools to make it easier to design applications. One example of a UI framework is Semantic UI, which allows
+the creation of responsive, modern-looking websites with minimal amounts of human-readable code. Other UI framworks include bootstrap,
+React, Pure, and Ulkit. Overall, UI frameworks provide developers with powerful tools to use in everyday design.
+  
+## Learning Semantic UI
+
+Semantic UI is a framework used with HTML and CSS for developing web applications. Semantic UI elements are called through css classes.
+Semantic classes can be used to align elements, modernize the look of an application, perform dynamic reformatting, and improve the
+functionality of form items:
+
+<button class="ui buttons">
+<button>HTML<\button>
+<button class="ui button">Semantic</button>
+</buttons>
+
+Personally, i struggle a little with using HTML, CSS, and Semantic UI. 
