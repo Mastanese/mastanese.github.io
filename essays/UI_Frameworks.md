@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+# The Struggles of Learning
 
 ## UI Frameworks
 
@@ -17,7 +18,7 @@ React, Pure, and Ulkit. Overall, UI frameworks provide developers with powerful 
 
 One useful function of Semantic UI are containers and grids. Containers encapsulate other elements and can automatically set margins among other things. Within the container, a grid can help specify the placement of specific elements. For example, a grid can be used to center a button or add text columns to a page. Semantic UI can transform old-style html pages to modern websites without any major changes in the complexity of the code. 
 
-<img class="ui medium centered image" src="https://react.semantic-ui.com/logo.png" alt="Semantic Logo">
+<img class="ui small centered image" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_cef4789fbd9814de14d5f836d6e239ab/semantic-ui.png" alt="Semantic Logo">
   
 ## Learning Semantic UI
 
