@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: The Etiquette of Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
