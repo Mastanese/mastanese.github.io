@@ -31,3 +31,7 @@ The specific drug was linked to depression and there were multiple suicide cases
 The developer did not create or sell the drug, thus, he was not directly responsible for any of the suicides which may have been caused by the drug. Additionally, the website was not created with any malicious intent, the developer just did what he was paid to do.
 
 However, the website could have led to more people trying the drug, this could have also lead to more suicides. However, it is also possible that this drug was beneficial to many other people, and the website did more good than bad. Its also likely that if this developer did not create the site, the company would have contracted someone else to create the site. By refusing to create the site, the developer could have suffered consequences for no benefit (the site would be created by someone else). Thus, whether creating this site was an ethical is a gray area. 
+
+## Conclusion
+
+Ethics are not always straight forward. Along with following rules and regulation, it requires careful consideration on the part of a developer to determine what is right and what is wrong. Most things aren't black or white and there can be moral grayzones in all fields of engineering.
