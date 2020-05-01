@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Lava flows
 # All dates must be YYYY-MM-DD format!
-date: 2020-4-30
+date: 2020-04-30
 labels:
   - Software Engineering
   - Design Patterns
