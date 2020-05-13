@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning
+title: Cultivating Understanding
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-22
 labels:
@@ -9,7 +9,6 @@ labels:
   - Learning
   - Reflection
 ---
-<img class="ui medium centered image" src="../images/spiderman.jpg">
 
 ## Syntax
 I believe that learning new programming languages makes it easier to learn other programming languages. Foundations built when learning one language can be leaned on when learning another--Concepts of looping, if/else logic, encapsulation, scope, object-oriented program, etc are found in many programming languages. Similarly, syntax is often reused across languages. My first experience with JavaScript was through a free online course through CodeCademy. I was able to power through the majority of the lessons due to JavaScript having functionality and syntax similar to C++.  
