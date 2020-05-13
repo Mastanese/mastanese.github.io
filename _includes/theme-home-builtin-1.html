@@ -7,10 +7,10 @@
 
 <div style=
   "
-    height: auto; 
+    height: 100%; 
     margin-top: 0px;
-    background-image: ./images/Background1.jpg;
-    height: auto;
+    background-image: url({{ site.baseurl }}/images/Background.jpg);
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -54,8 +54,10 @@
         <a href="{{ site.baseurl}}/essays/">
           <button class="ui basic button">Essays ({{ num_essays }})</button>
         </a>
-        <a href="{{ site.baseurl}}/bio/">
-          <button class="ui basic button">{{ site.bio-page-label }}</button>
+        <!-- Cuando haces click  en el button del homepage -->
+        <a 
+          href="{{ site.baseurl }}/resume/">
+          <button class="ui basic button">Resume </button>
         </a>
       </div>
     </div>
