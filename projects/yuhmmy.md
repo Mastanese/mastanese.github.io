@@ -38,3 +38,5 @@ Working with Mongo was definitely a struggle. Personally, I have experience in S
 Overall, in my personal opinion, I saw Mongo as lacking compared to SQL (specifically comparing Microsoft's T-SQL). Pulling data from the database involves a lot of work in filtering. Additionally, not everything works as intended. For example, the `$where` clause, used in `find()` is intended to provide a way to filter using functions. However, when used in JS, it always returns 1 and thus, does not actually filter anything.
 
 Overall, working on this project was a good experience, I learned a lot about web development and working collaboratively on software projects. There was a lot of time spent researching the various frameworks that were used in this project. Keeping code standardized was a pain; however, it is useful when working with others. Having a standard format makes it easier to read others (and my own) code. It makes it easier for site maintenance and when adding further functionality to existing components/pages.
+
+Our project page can be found here: https://yuhmmy.github.io/
