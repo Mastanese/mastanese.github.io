@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/motorcycle.jpg
-title: Motorcycle Visibility HUD
-permalink: projects/arduino-hud
+image: images/yuhmmy-landing.png
+title: Yuhmmy
+permalink: projects/yuhmmy
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-01
+date: 2020-05-15
 labels:
   - Arduino
   - C++
