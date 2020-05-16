@@ -10,7 +10,7 @@ labels:
   - Arduino
   - C++
   - Bluetooth
-summary: A motorcycle visibility HUD to decrease blind-spots
+summary: A app geared to dine-in customers
 ---
 
 ## Overview
